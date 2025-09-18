@@ -1,0 +1,16 @@
+[
+  {
+    "login": "adam",
+    "password": "1234",
+    "name": "Adam",
+    "age": 25,
+    "type": "adult"
+  },
+  {
+    "login": "ania",
+    "password": "abcd",
+    "name": "Ania",
+    "age": 14,
+    "type": "junior"
+  }
+]
